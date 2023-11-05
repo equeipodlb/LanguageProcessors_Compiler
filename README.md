@@ -3,6 +3,9 @@
 Creación de un compilador de Ñ++ (lenguaje basado en C++) creado por Alejandro Paz, Lucas Vukotic y Enrique Queipo de Llano para la asignatura de Procesadores del Lenguaje (UCM) 
 creado con Java, JLex, CUP y webassembly.
 
+In this repository you can find the compiler for Ñ++ (a C++ based languange in Spanish) made by Alejandro Paz, Lucas Vukotic and Enrique Queipo de Llano for our Language Processors course (UCM) 
+Created with Java, JLex, CUP y webassembly.
+
 ---
 En la carpeta `alex` se encuentran los ficheros Java necesarios para el análisis léxico. En la carpeta `asint` ocurre lo mismo para el análisis sintáctico. Además se encuentra el fichero `Main.java`. En la carpeta `ast` se pueden encontrar todos los ficheros Java para la generación de dicho ast. Los ficheros `AnalizadorLexicoTiny.l` `Tiny.cup` se encuentra en la carpeta raíz.
 
